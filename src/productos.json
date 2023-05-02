@@ -1,0 +1,33 @@
+[{
+    
+"title":"Prodcuto 1",
+"description":"Cerveza Carlsberg",
+"price":200,
+"thumbnail":"https://www.espaciovino.com.ar/media/default/0001/64/thumb_63664_default_medium.jpeg",
+"code":"CER01ZA",
+"stock":1,
+"id":1
+
+},
+{
+
+"title":"Producto 2",
+"price":120,
+"description":"Cerveza Brahama",
+"thumbnail":"https://carrefourar.vtexassets.com/arquivos/ids/191315/7792798007493_01.jpg?v=637511788315700000",
+"code":"CER02ZA",
+"stock":2,
+"id":3
+
+},
+{
+    
+"title":"Producto 3",
+"description":"Cerveza Quilmes",
+"price":130,
+"thumbnail":"https://jumboargentina.vtexassets.com/arquivos/ids/588362/Cerveza-Rubia-Quilmes-Clasica-1-L-Botella-Retornable-1-18652.jpg?v=637280467092070000",
+"code":"P2004BCA",
+"stock":20,
+"id":3
+
+}]
